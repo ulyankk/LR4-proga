@@ -5,7 +5,7 @@ def readline(file_name):
     f.close()
     return numbers
 
-# Читаем оба файла через ОДНУ И ТУ ЖЕ функцию
+
 set_a = readline("file_one")
 set_b = readline("file_two")
 
